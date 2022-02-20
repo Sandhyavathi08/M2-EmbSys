@@ -83,6 +83,11 @@ emergency, they need to press the “ENERGENCY BUTTON” on the keypad,
 which prompts the GSM to send an OTP to the any one of the registered users
 and when they get that OTP, the door can be opened.
 
+## BLOCK DIAGRAM 
+
+![image](https://user-images.githubusercontent.com/99087988/154847505-0b90e7ee-1c55-4941-90dc-49cd1c53b3cd.png)
+
+
 # HARDWARE REQUIREMENTS
 
 ##  MICROCONTROLLERS

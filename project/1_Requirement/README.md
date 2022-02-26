@@ -8,19 +8,21 @@ Today it is essential to provide security systems employing various sensors and 
 
 # REQUIREMENTS
 ## HIGH LEVEL REQUIREMENTS
-## HLR_ID  High level description
-    HLR01   It shall have a DC Motor
-    HLR02   It shall have a Bluetooth(HC_05) 
-    HLR03   It shall have a keypad
-    HLR04   It shall have a LCD Screen
+|HLR_ID|  High level description|
+|--|--|
+|HLR01|   It shall have a DC Motor|
+|HLR02|   It shall have a Bluetooth(HC_05)| 
+|HLR03 | It shall have a keypad|
+|HLR04 |  It shall have a LCD Screen|
       
    
 ## LOW LEVEL REQUIREMENTS
-## LLR_ID        Low level description
-    HLR01_LLR01   DC Motor for opening and closing the lock
-    HLR02_LLR02   Bluetooth(HC_05) for transmitting and receiving the data
-    HLR02_LLR03   Keypad is used to enter the digits
-    HLR04_LLR04   LCD displays the code entered and shows if the door is unlocke
+|LLR_ID|        Low level description|
+|--|--|
+|HLR01_LLR01|DC Motor for opening and closing the lock|
+|HLR02_LLR02|Bluetooth(HC_05) for transmitting and receiving the data|
+|HLR02_LLR03 |  Keypad is used to enter the digits|
+|HLR04_LLR04|  LCD displays the code entered and shows if the door is unlocke|
    
 
 ## ADVANTAGES

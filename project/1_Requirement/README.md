@@ -6,6 +6,9 @@ This report discusses the design and implementations of a door unlock compact sy
 ## INTRODUCTION
 Today it is essential to provide security systems employing various sensors and alarm system in residential communities. Security is one of the biggest challenges everywhere since thefts are increasing day by day owing to the unsafe and insecure security systems in homes, commercial complexes and industries. Several conventional technologies are available to keep home properties safe from intruders, but most common smart home security systems work on wireless GSM communication. A home security system with the GSM technology achieves control of door lock by short message service (SMS). PIC is the microcontroller which controls the whole driver unit. Keypad, GSM module, LED display, relays are connected. GSM system allows the person with unregistered personnel open the door after entering the OTP which is sent to the any one of the registered users. The Keypad module is used for entering the 4-digit password by the unregistered personnel.
 
+## GOALS AND OBJECTIVES
+In today’s age of digital technology and intelligent systems, automation has become one of the fastest developing application - based technologies in the world. In this Mini-Project our goal is to understand the basic concepts and implementing the concepts involving in the GSM and BLUETOOTH based locking systems.
+
 # REQUIREMENTS
 ## HIGH LEVEL REQUIREMENTS
 |HLR_ID|  High level description|

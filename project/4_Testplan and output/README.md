@@ -1,18 +1,9 @@
 # TEST PLAN AND OUTPUT
 ## HIGH LEVEL TEST PLAN
- 
-    ## Test_Id           Test Cases Description         Expected output       Actual output     Status 
-    
-    ## TD_01             Shall have to implement          Passed               Success           Done
-                         the code for microcontroller 
+|Test_Id|Test Cases Description|Expected output|Actual output|Status|
+|--|--|--|--|--|
+|TD_01 |Shall have to implement the code for microcontroller|passed|success|done| 
+|TD_02|Microcontroller code shall  run  without any errors|Passed|Success|Done|
+|TD_03|circuit of the project should be implemented by hardware|Passed|Success|Done|               
+|TD_04|Circuit of the project shall be hardware without errors|Passed|Success|Done|
                          
-    ## TD_02             Microcontroller code shall       Passed               Success           Done
-                         run  without any errors  
-                         
-    ## TD_03             Circuit of the project           Passed               Success           Done               
-                         should be implemented 
-                         by hardware
-                         
-    ## TD_04             Circuit of the project           Passed               Success           Done
-                         shall be hardware without
-                         errors

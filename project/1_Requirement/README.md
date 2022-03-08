@@ -27,6 +27,10 @@ In today’s age of digital technology and intelligent systems, automation has b
 |HLR02_LLR03 |  Keypad is used to enter the digits|
 |HLR04_LLR04|  LCD displays the code entered and shows if the door is unlock|
 
+## SWOT ANALYSIS
+![SWOT (2)](https://user-images.githubusercontent.com/99087988/157184279-f96d7cc6-9d45-4308-a0cd-5f52a82cc306.PNG)
+
+
 ## 4W'S AND 1H
 
 ![4WSAND 1H (2)](https://user-images.githubusercontent.com/99087988/157183201-29e52cb3-d34a-40b8-bf80-f6ae413de039.PNG)

@@ -1,5 +1,12 @@
 # BLOCK DIAGRAM:
 ![image](https://user-images.githubusercontent.com/99087988/155833276-c4801621-8585-4990-892c-67e28a1652a4.png)
+
+![mobile (2)](https://user-images.githubusercontent.com/99087988/157187822-d5c4f226-0600-4e4c-b7d0-de9645c4242d.PNG)
+
+![mc (2)](https://user-images.githubusercontent.com/99087988/157188079-32960028-91d5-4b2f-b227-48e48d948881.PNG)
+
+![alarm (2)](https://user-images.githubusercontent.com/99087988/157188312-25556168-b9fc-429a-b1ae-113e3405bfc6.PNG)
+
 ## DC MOTOR
 A dc motor with forward and reverse motion is used for the opening and closing operation of the lock respectively. The motor is supplied with a voltage of 12 volts.
 ![image](https://user-images.githubusercontent.com/99087988/155833350-ebff6f88-0172-4634-b907-2f54b4b69ead.png)

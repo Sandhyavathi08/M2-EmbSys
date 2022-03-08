@@ -15,3 +15,8 @@
 |LL2|Keypad |1 |Open        |implemented|Done :white_check_mark:|
 |LL3|OTP     |Enter pin|unlocks door     |unlocks door|Done :white_check_mark:|
 |LL4|Bletooth_HC_05|Data transfer|Successful|Successful|Done|
+
+
+# HARDWARE OUTPUT
+![output (2)](https://user-images.githubusercontent.com/99087988/157275529-3212105f-b78d-4632-a326-01183f7c99ce.PNG)
+

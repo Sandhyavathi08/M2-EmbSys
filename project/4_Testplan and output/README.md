@@ -14,4 +14,4 @@
 | LL1 | LCD |Value given|LCD Displays|LCD Displays|Pass|Done :white_check_mark:|
 |LL2|Keypad |1 |Open        |implemented|Done :white_check_mark:|
 |LL3|OTP     |Enter pin|unlocks door     |unlocks door|Done :white_check_mark:|
-|LL4|GSM module|implemented|successfull|successful|Done :white_check_mark:|
+|LL4|Bletooth_HC_05|Data transfer|Successful|Successful|Done|

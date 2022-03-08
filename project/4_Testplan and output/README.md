@@ -11,7 +11,7 @@
 ## LOW LEVEL TEST PLAN
 |  Test ID| Description |Exp I/P|Exp O/P|Actual O/P|Status |
 |--|--|--|--|--|--|
-| LL1 | LCD |NA|LCD Displays|LCD Displays|Pass|Done :white_check_mark:|
+| LL1 | LCD |Value given|LCD Displays|LCD Displays|Pass|Done :white_check_mark:|
 |LL2|Keypad |1 |Open        |implemented|Done :white_check_mark:|
-|LL3|Color sensor|sensing|check fake or real|implemented|Done :white_check_mark:|
+|LL3|OTP     |Enter pin|unlocks door     |unlocks door|Done :white_check_mark:|
 |LL4|GSM module|implemented|successfull|successful|Done :white_check_mark:|

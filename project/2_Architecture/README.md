@@ -11,6 +11,7 @@ Microcontroller is a general purpose device, which integrates a number of the co
 HC-05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module, designed for transparent wireless serial connection setup. It is used for many applications like wireless headset, game controllers, wireless mouse, wireless keyboard and many more consumer applications. It has range up to <100m which depends upon transmitter and receiver, atmosphere, geographic & urban conditions. HC-05 is a Bluetooth module which is designed for wireless comunication. This module can be used in a master or slave configuration. It has 6 pins namely: Key/EN, Data mode, Command mode, VCC, GND, TXD, RXD, State. Refer to figure 3.2. To communicate smartphone with HC-05 Bluetooth module, smartphone requires Bluetooth terminal application for transmitting and receiving data.
 ![image](https://user-images.githubusercontent.com/99087988/155833443-e1eea549-7237-465e-89c8-63c192068672.png)
 ## KEY PAD
+A keypad is used to enter the digits of the code in case of emergency situations mentioned above wherein the person gets the OTP from the registered members. Refer to figure 3.8. This concludes the introduction to the key components used in the completion of the project.
 ![image](https://user-images.githubusercontent.com/99087988/155833473-86c5ef29-09ff-4ba5-8139-dd73d5f49645.png)
 ## LCD SCREEN
 ![image](https://user-images.githubusercontent.com/99087988/155833504-823d4ead-7c61-4e8d-808b-775c4db91747.png)

@@ -9,6 +9,9 @@
 ![image](https://user-images.githubusercontent.com/99087988/157256824-3fbb6ce0-7597-494d-87fd-000348502ecf.png)
 ## KEYPAD
 ![image](https://user-images.githubusercontent.com/99087988/157257191-1a3cab4d-af36-4b64-b6d8-feb1c042b4f1.png)
+## LCD
+![image](https://user-images.githubusercontent.com/99087988/157257786-35e20c46-85d4-47e4-9765-dea0b19b9616.png)
+
 
 
 

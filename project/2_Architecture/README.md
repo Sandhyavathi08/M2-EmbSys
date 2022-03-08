@@ -14,5 +14,6 @@ HC-05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module, desi
 A keypad is used to enter the digits of the code in case of emergency situations mentioned above wherein the person gets the OTP from the registered members. Refer to figure 3.8. This concludes the introduction to the key components used in the completion of the project.
 ![image](https://user-images.githubusercontent.com/99087988/155833473-86c5ef29-09ff-4ba5-8139-dd73d5f49645.png)
 ## LCD SCREEN
+LCD (Liquid Crystal Display) is a type of flat panel display which uses liquid crystals in its primary form of operation. LEDs have a large and varying set of use cases for consumers and businesses, as they can be commonly found in smartphones, televisions, computer monitors and instrument panels. Refer to figure 3.7. Here, the LCD screen is used to display the code entered and also shows if the door is unlocked or otherwise.
 ![image](https://user-images.githubusercontent.com/99087988/155833504-823d4ead-7c61-4e8d-808b-775c4db91747.png)
 

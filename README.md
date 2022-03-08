@@ -4,6 +4,7 @@
 ![codiga](https://api.codiga.io/project/31750/score/svg)
 ![Codacy Badge](https://app.codacy.com/project/badge/Grade/5d8e06fd940a43dcae0ceeb84994ca36)
 [![Unit Testing](https://github.com/Sandhyavathi08/M2-EmbSys/actions/workflows/unit%20testing.yml/badge.svg)](https://github.com/Sandhyavathi08/M2-EmbSys/actions/workflows/unit%20testing.yml)
+[![Cppcheck](https://github.com/Sandhyavathi08/M2-EmbSys/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sandhyavathi08/M2-EmbSys/actions/workflows/cppcheck.yml)
 
 
 | Folder Name | Contents |

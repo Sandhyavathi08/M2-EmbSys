@@ -25,7 +25,13 @@ In today’s age of digital technology and intelligent systems, automation has b
 |HLR01_LLR01|DC Motor for opening and closing the lock|
 |HLR02_LLR02|Bluetooth(HC_05) for transmitting and receiving the data|
 |HLR02_LLR03 |  Keypad is used to enter the digits|
-|HLR04_LLR04|  LCD displays the code entered and shows if the door is unlocke|
+|HLR04_LLR04|  LCD displays the code entered and shows if the door is unlock|
+
+## 4W'S AND 1H
+
+![4WSAND 1H (2)](https://user-images.githubusercontent.com/99087988/157183201-29e52cb3-d34a-40b8-bf80-f6ae413de039.PNG)
+
+
    
 
 ## ADVANTAGES
